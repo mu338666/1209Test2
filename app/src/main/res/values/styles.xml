@@ -1,0 +1,17 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <!-- 카카오 네이티브앱 키 -->
+    <string name="kakao_app_key">a85bb871247dea7471b3db19d57a7ecd</string>
+
+    <!-- 디버그 키 -->
+    <!-- <string name="pGke5ClkWgMcTb+KbdUUx6lcT8s="></string> -->
+
+</resources>
